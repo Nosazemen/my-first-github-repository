@@ -1,4 +1,2 @@
 # my-first-project-repository
-my first project repository in GitHub
-
-README.md file was just edited manually. this file is updated locally
+this file was modified manually to resolve conflict
